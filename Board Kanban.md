@@ -20,6 +20,7 @@ kanban-plugin: board
 ## In process
 
 - [ ] Teamhub Payload
+- [ ] CloudGuru: AWS Certified Solutions Architect
 
 
 ## Done
