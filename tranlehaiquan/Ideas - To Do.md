@@ -1,0 +1,5 @@
+- Micro front end
+- Nest.js micro services
+- Multiple tenant
+- Front End streaming without framework, how it work?
+- Feature flags https://flags-sdk.dev/

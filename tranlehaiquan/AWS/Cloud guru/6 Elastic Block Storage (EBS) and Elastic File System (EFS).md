@@ -1,0 +1,1 @@
+6 Elastic Block Storage (EBS) and Elastic File System (EFS)

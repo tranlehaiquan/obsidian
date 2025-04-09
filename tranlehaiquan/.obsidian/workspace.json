@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "2df6fa478b025408",
+    "type": "split",
+    "children": [
+      {
+        "id": "788b6c5d6ca81734",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bab6ec81826a13d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/Cloud guru/23 Media.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "23 Media"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "622df793c93d5a49",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ef4b14773a5be98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbda176505ad1f8b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "086a31f6c88229b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7fe6869d7399e664",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3c291f3529473dff",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0d21083229f8532",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6a443ff1f92f0d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Website capture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Website capture"
+            }
+          },
+          {
+            "id": "caec45ba4602e7a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Website capture.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Website capture"
+            }
+          },
+          {
+            "id": "349ee07339780a3b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7159b42f6bd97877",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "daily/16-11-2024.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 16-11-2024"
+            }
+          },
+          {
+            "id": "b005945dcc978aa3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "1bab6ec81826a13d",
+  "lastOpenFiles": [
+    "AWS/Cloud guru/22 Machine Learning.md",
+    "AWS/Cloud guru/21 Front-End Web and Mobile.md",
+    "AWS/Cloud guru/20 Migration.md",
+    "AWS/Cloud guru/19 Governance.md",
+    "AWS/Cloud guru/18 Caching.md",
+    "AWS/Cloud guru/17 Automation.md",
+    "AWS/Cloud guru/16 Security.md",
+    "AWS/Cloud guru/15 Serverless Architecture.md",
+    "AWS/Cloud guru/14 Big Data.md",
+    "AWS/Cloud guru/13 Decoupling Workflows.md",
+    "AWS/Cloud guru/12 High Availability and Scaling.md",
+    "AWS/Cloud guru/11 Monitoring.md",
+    "AWS/Cloud guru/10 Elastic Load Balancing (ELB).md",
+    "AWS/Cloud guru/9 Route 53.md",
+    "AWS/Cloud guru/8 Virtual Private Cloud (VPC) Networking.md",
+    "AWS/Cloud guru/7 Databases.md",
+    "AWS/Cloud guru/6 Elastic Block Storage (EBS) and Elastic File System (EFS).md",
+    "AWS/Cloud guru/5 Elastic Compute Cloud (EC2).md",
+    "AWS/Cloud guru/4 Simple Storage Service (S3).md",
+    "Journey/09-04-2025.md",
+    "AWS/Cloud guru/3 Identity and Access Management (IAM).md",
+    "AWS/Cloud guru/23 Media.md",
+    "AWS/Cloud guru/Untitled.md",
+    "AWS/AWS.md",
+    "AWS/Principle of Least privilege.md",
+    "AWS/Cloud guru/2 AWS Fundamentals.md",
+    "AWS/documents",
+    "AWS/documents/wellarchitected-framework.pdf",
+    "AWS/documents/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",
+    "assets/Pasted image 20250408194326.png",
+    "AWS/Cloud guru",
+    "AWS/Cloud guru",
+    "Javascript",
+    "assets/Pasted image 20250314135713.png",
+    "assets/Pasted image 20250314135544.png",
+    "assets/Pasted image 20250314135459.png",
+    "assets/Pasted image 20250314134859.png",
+    "Untitled",
+    "Excalidraw",
+    "assets/solution-overview.jpeg",
+    "assets/capture-recurring.jpeg",
+    "assets/capture-one-time.jpeg",
+    "assets",
+    "capture-recurring.jpeg",
+    "AWS"
+  ]
+}
