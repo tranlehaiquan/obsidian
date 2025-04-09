@@ -4,21 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "788b6c5d6ca81734",
+        "id": "0884151617afa00a",
         "type": "tabs",
         "children": [
           {
-            "id": "1bab6ec81826a13d",
+            "id": "50f76e6edf10297c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Journey/09-04-2025.md",
-                "mode": "source",
-                "source": false
+                "file": "Board Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "09-04-2025"
+              "icon": "lucide-trello",
+              "title": "Board Kanban"
             }
           }
         ]
@@ -161,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 372.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,11 +179,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1bab6ec81826a13d",
+  "active": "50f76e6edf10297c",
   "lastOpenFiles": [
+    "Feature flags.md",
+    "Board Kanban.md",
+    "Ideas - To Do.md",
+    "K8s.md",
+    "Idea - Website IsItDown?.md",
+    "Website IsItDown?.md",
+    "Shared responsibility.md",
+    "What different between Notion and Obsidian.md",
+    "Untitled.md",
+    "Journey/09-04-2025.md",
     "AWS/Cloud guru/23 Media.md",
     "AWS/Cloud guru/22 Machine Learning.md",
     "AWS/Cloud guru/21 Front-End Web and Mobile.md",
@@ -192,16 +211,6 @@
     "AWS/Cloud guru/10 Elastic Load Balancing (ELB).md",
     "AWS/Cloud guru/9 Route 53.md",
     "AWS/Cloud guru/8 Virtual Private Cloud (VPC) Networking.md",
-    "AWS/Cloud guru/7 Databases.md",
-    "AWS/Cloud guru/6 Elastic Block Storage (EBS) and Elastic File System (EFS).md",
-    "AWS/Cloud guru/5 Elastic Compute Cloud (EC2).md",
-    "AWS/Cloud guru/4 Simple Storage Service (S3).md",
-    "Journey/09-04-2025.md",
-    "AWS/Cloud guru/3 Identity and Access Management (IAM).md",
-    "AWS/Cloud guru/Untitled.md",
-    "AWS/AWS.md",
-    "AWS/Principle of Least privilege.md",
-    "AWS/Cloud guru/2 AWS Fundamentals.md",
     "AWS/documents",
     "AWS/documents/wellarchitected-framework.pdf",
     "AWS/documents/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",

@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiClipboardCheck",
       "✅",
       "📌",
       "LiCloudy",
@@ -35,5 +36,6 @@
   },
   "AWS": "LiCloud",
   "AWS/Cloud guru": "LiCloudy",
-  "AWS/Six Pillars of the Well-architected Framework.md": "📌"
+  "AWS/Six Pillars of the Well-architected Framework.md": "📌",
+  "Board Kanban.md": "LiClipboardCheck"
 }
