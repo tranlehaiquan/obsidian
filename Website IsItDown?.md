@@ -1,6 +1,4 @@
-	
 Here’s a detailed plan for implementing your architecture:
-
 
 **Objective**
 

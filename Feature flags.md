@@ -1,1 +1,1 @@
- https://flags-sdk.dev/
+https://flags-sdk.dev/

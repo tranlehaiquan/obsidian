@@ -11,21 +11,14 @@
             "id": "50f76e6edf10297c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Board Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "AWS/Cloud guru/1 Introduce.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Board Kanban"
+              "icon": "lucide-file",
+              "title": "1 Introduce"
             }
           }
         ]
@@ -159,8 +152,22 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c36ed626d4da9771",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -185,14 +192,18 @@
   },
   "active": "50f76e6edf10297c",
   "lastOpenFiles": [
-    "Feature flags.md",
     "Board Kanban.md",
-    "Ideas - To Do.md",
+    "Feature flags.md",
     "K8s.md",
-    "Idea - Website IsItDown?.md",
-    "Website IsItDown?.md",
+    "Next.js.md",
+    "React.js.md",
     "Shared responsibility.md",
+    "Website IsItDown?.md",
     "What different between Notion and Obsidian.md",
+    "Nest.js.md",
+    "Idea - Website IsItDown?.md",
+    "Ideas - To Do.md",
+    "Journey/10-04-2025.md",
     "Untitled.md",
     "Journey/09-04-2025.md",
     "AWS/Cloud guru/23 Media.md",
@@ -207,10 +218,6 @@
     "AWS/Cloud guru/14 Big Data.md",
     "AWS/Cloud guru/13 Decoupling Workflows.md",
     "AWS/Cloud guru/12 High Availability and Scaling.md",
-    "AWS/Cloud guru/11 Monitoring.md",
-    "AWS/Cloud guru/10 Elastic Load Balancing (ELB).md",
-    "AWS/Cloud guru/9 Route 53.md",
-    "AWS/Cloud guru/8 Virtual Private Cloud (VPC) Networking.md",
     "AWS/documents",
     "AWS/documents/wellarchitected-framework.pdf",
     "AWS/documents/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",
