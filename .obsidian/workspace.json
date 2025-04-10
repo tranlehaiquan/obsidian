@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Cloud guru/1 Introduce.md",
+                "file": "AWS/Cloud guru/4 Simple Storage Service (S3).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Introduce"
+              "title": "4 Simple Storage Service (S3)"
             }
           }
         ]
@@ -187,11 +187,27 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "50f76e6edf10297c",
   "lastOpenFiles": [
+    "AWS/Cloud guru/7 Databases.md",
+    "AWS/Cloud guru/8 Virtual Private Cloud (VPC) Networking.md",
+    "AWS/Cloud guru/9 Route 53.md",
+    "AWS/Cloud guru/11 Monitoring.md",
+    "AWS/Cloud guru/13 Decoupling Workflows.md",
+    "AWS/Cloud guru/14 Big Data.md",
+    "AWS/Cloud guru/15 Serverless Architecture.md",
+    "AWS/Cloud guru/10 Elastic Load Balancing (ELB).md",
+    "Journey/10-04-2025.md",
+    "AWS/Cloud guru/4 Simple Storage Service (S3).md",
+    "AWS/Cloud guru/6 Elastic Block Storage (EBS) and Elastic File System (EFS).md",
+    "AWS/Cloud guru/2 AWS Fundamentals.md",
+    "AWS/Cloud guru/3 Identity and Access Management (IAM).md",
+    "AWS/Cloud guru/1 Introduce.md",
+    "AWS/Cloud guru/5 Elastic Compute Cloud (EC2).md",
     "Board Kanban.md",
     "Feature flags.md",
     "K8s.md",
@@ -203,21 +219,6 @@
     "Nest.js.md",
     "Idea - Website IsItDown?.md",
     "Ideas - To Do.md",
-    "Journey/10-04-2025.md",
-    "Untitled.md",
-    "Journey/09-04-2025.md",
-    "AWS/Cloud guru/23 Media.md",
-    "AWS/Cloud guru/22 Machine Learning.md",
-    "AWS/Cloud guru/21 Front-End Web and Mobile.md",
-    "AWS/Cloud guru/20 Migration.md",
-    "AWS/Cloud guru/19 Governance.md",
-    "AWS/Cloud guru/18 Caching.md",
-    "AWS/Cloud guru/17 Automation.md",
-    "AWS/Cloud guru/16 Security.md",
-    "AWS/Cloud guru/15 Serverless Architecture.md",
-    "AWS/Cloud guru/14 Big Data.md",
-    "AWS/Cloud guru/13 Decoupling Workflows.md",
-    "AWS/Cloud guru/12 High Availability and Scaling.md",
     "AWS/documents",
     "AWS/documents/wellarchitected-framework.pdf",
     "AWS/documents/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",

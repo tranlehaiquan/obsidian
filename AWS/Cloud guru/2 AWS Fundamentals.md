@@ -3,7 +3,7 @@
 
 ### [[Share responsibility model | Share responsibility]]
 ### Compute, Storage, Databases, and Networking
-#### Compute
+### Compute
 - EC2
 - Lambda
 - Elastic Beanstalk
