@@ -61,8 +61,22 @@ Auto move your object to correct tier.
 |S3 Glacier Flexible Retrieval|99.99% Availability, 11 9’s Durability|>= 3|Ideal storage class for archive data that does not require immediate access but needs the flexibility to retrieve large sets of data at no cost. Can be minutes or up to 12 hours.|
 |S3 Glacier Deep Archive|99.99% Availability, 11 9’s Durability|>= 3|Cheapest storage class and designed for customers that retain data sets for 7–10 years or longer to meet customer needs and regulatory compliance requirements. The standard retrieval time is 12 hours, and the bulk retrieval time is 48 hours.|
 
-### Encryption 
+### S3 Object Lock and Glacier Vault Lock
+#### Governance mode
+**Users can't overwrite or delete an object version or alter its lock setting** unless they have special permissions.
+You can still grant some users permission ta alter the retention settings or delete the object if needed.
+#### Compliance mode
+Can't be overwritten or deleted by any user for the duration of the retention period.
+#### Object lock
+WORM: write once, read many. Prevent object from modified or delete
+#### Legal holds
+Like object lock but don't have retention period. (think it like flag)
+#### Glacier vault lock
+- S3 Glacier Vault Lock allows you to **easily deploy** and **enforce compliance controls** for individual S3 Glacier vaults with a vault lock policy.
+- You can **specify controls, such as WORM, in a vault lock policy and lock the policy from future edits**. Once locked, the policy can no longer be changed.
+Tips: WORM + glacier = Glacier vault lock
 
+### Encryption 
 #### Encryption in transit
 - SSL/TLS
 - HTTPS
@@ -72,13 +86,11 @@ Auto move your object to correct tier.
 - SSE-C: Customer managed keys
 #### Encryption at rest: Client-side encryption
 You encryption the files yourself before you upload them to S3
-
 ##### Enforcing Server-side encryption for S3 upload:
 When upload files add Header `x-amz-server-side-encryption` to tell server side encryption:
 - AES256
 - kms
 Create Bucket policy to deny user upload file doesn't include header `x-amz-server-side-encryption`
-
 ### S3 performance 
 3500r/s PUT/COPY/POST/DELETE
 5500r/s GET/HEAD
