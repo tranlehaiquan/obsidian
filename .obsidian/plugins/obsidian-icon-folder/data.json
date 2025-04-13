@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiLoader",
       "LiClipboardCheck",
       "✅",
       "📌",
-      "LiCloudy",
-      "LiCloud"
+      "LiCloudy"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,6 @@
   "AWS/Cloud guru/1 Introduce.md": "✅",
   "AWS/Cloud guru/2 AWS Fundamentals.md": "✅",
   "AWS/Cloud guru/3 Identity and Access Management (IAM).md": "✅",
-  "AWS/Cloud guru/4 Simple Storage Service (S3).md": "✅"
+  "AWS/Cloud guru/4 Simple Storage Service (S3).md": "✅",
+  "AWS/Cloud guru/5 Elastic Compute Cloud (EC2).md": "LiLoader"
 }
