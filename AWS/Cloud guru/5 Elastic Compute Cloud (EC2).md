@@ -25,3 +25,24 @@ Flexible, for range of time.
 - Reserved **up to 70% off**
 
 ![[Screenshot 2025-04-13 at 11.46.01.png]]
+
+### Spot Instance
+Must declare your max spot price
+Spot fleets
+
+### Deploy vCenter using VMware on AWS
+Use cases:
+- Hybrid cloud
+- Cloud migration (old system)
+- Disaster Recovery
+
+### Outposts
+Outposts brings the AWS data center directly to you, on-permises.
+
+Outposts family:
+- Outposts rack: 42U rack -> scale up to 96 racks (**larger**)
+- Outpost server: 1U -> 2U form factor (**smaller than rack**)
+
+
+
+
