@@ -8,7 +8,7 @@
 
 ### Reserved
 
-Reserved capacity for 1 or 3 years. Up to 72% discount on the hourly charge. Great if you have known, fixed requirements.
+Reserved capacity for 1 or 3 years. Up to **72% discount** on the hourly charge. Great if you have known, fixed requirements.
 
 **Predictable Usage**: Applications with steady state or predictable usage.
 **Specific Capacity Requirements**: Applications that require reserved capacity.
@@ -96,6 +96,8 @@ Each partition placement group has it own set of racks. Each rack has it own net
 
 Must declare your max spot price
 Spot fleets
+
+If your Spot Instance has been marked for termination, a notification will be best-effort posted to the metadata of your EC2 instance two minutes before it is stopped or terminated. Reference: [Spot Instance Interruption Notices](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/spot-interruptions.html#spot-instance-termination-notices "null")
 
 ### Deploy vCenter using VMware on AWS
 
