@@ -42,5 +42,6 @@
   "AWS/Cloud guru/2 AWS Fundamentals.md": "✅",
   "AWS/Cloud guru/3 Identity and Access Management (IAM).md": "✅",
   "AWS/Cloud guru/4 Simple Storage Service (S3).md": "✅",
-  "AWS/Cloud guru/5 Elastic Compute Cloud (EC2).md": "✅"
+  "AWS/Cloud guru/5 Elastic Compute Cloud (EC2).md": "✅",
+  "AWS/Cloud guru/6 Elastic Block Storage (EBS) and Elastic File System (EFS).md": "LiLoader"
 }
